@@ -20,6 +20,5 @@ public class Lesson1_4 {
 
         double e = sqrt (c-a)*(d-b);
         System.out.println("Average="+c);
-
-    Math.
+    }
 }
