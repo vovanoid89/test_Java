@@ -14,7 +14,7 @@ public class Lesson1_1 {
         System.out.println("Input b");
         int b = sc.nextInt();
 
-        System.out.println("parameter = "+2*(a+b));;
+        System.out.println("parameter = "+2*(a+b));
         System.out.println("square = "+a*b);
         sc.close();
     }
